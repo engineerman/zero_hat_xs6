@@ -1,0 +1,14 @@
+/__Previews/
+/Project Logs for *
+/ref/
+*.pptx
+*.bat
+/Project Outputs*
+*.zip
+*.step
+*.Cam
+*/Gerber/*
+*/NC Drill/*
+Status Report.Txt
+*.PDF
+*.xlsx

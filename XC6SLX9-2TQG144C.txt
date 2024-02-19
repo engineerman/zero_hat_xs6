@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\kemal\Downloads\XC6SLX9-2TQG144C(1)\XC6SLX9-2TQG144C\XC6SLX9-2TQG144C.PcbDoc
+Date         : 15.02.2024
+Time         : 15:54:53
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 79,34%
+    Connections, 271
+    Connections routed, 215
+    Connections remaining, 56
+count : 4
